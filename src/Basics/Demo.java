@@ -5,6 +5,7 @@ public class Demo {
 		System.out.println("Hello world!...");
 		System.out.print("Hai,");
 		System.out.println("Ashly");
+		System.out.println("Testing");
 	}
 
 }
